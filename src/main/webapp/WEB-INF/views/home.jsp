@@ -64,7 +64,7 @@
 					<p>Maven </p>
 					<p>Git </p>
 					<p>Jenkins </p>
-					<p>line ajouter depuis feature02 </p>
+					
 				</div>
 				
 			</div>
