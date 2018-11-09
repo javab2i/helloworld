@@ -26,17 +26,7 @@
 			<div class="nav-collapse collapse">
 				<ul class="nav">
 					<li><a href="<spring:url value="/"/>">Home</a></li>
-					
 					<li><a href="/about/">About</a></li>
-					
-					<!-- <li class="dropdown"><a class="dropdown-toggle"
-						data-toggle="dropdown" href="#">Training <b class="caret"></b>
-					</a>
-						<ul class="dropdown-menu">
-							<li><a tabindex="-1" href="http://pluralsight.com">Pluralsight</a></li>
-							<li><a tabindex="-1" href="http://amazon.com">Doc Spring</a></li>
-						</ul></li> -->
-
 				</ul>
 				<form class="navbar-search pull-right input-append">
 					<input class="span2" id="appendedInputButtons" type="search">
@@ -59,7 +49,7 @@
 
 				<div class="hero-unit">
 					<h2>${homeAttribute}</h2>
-					<p>Spring : </p>
+					<p>Spring framework : <br>open source Java platform for developing robust Java applications easily and rapidly.</p>
 					<p>Bootstrap : </p>
 					<p>Maven : </p>
 					<p>Git : </p>
