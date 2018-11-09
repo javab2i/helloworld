@@ -59,11 +59,12 @@
 
 				<div class="hero-unit">
 					<h2>${homeAttribute}</h2>
-					<p>Spring : </p>
-					<p>Bootstrap : </p>
-					<p>Maven : </p>
-					<p>Git : </p>
-					<p>Jenkins : </p>
+					<p>Spring </p>
+					<p>Bootstrap </p>
+					<p>Maven </p>
+					<p>Git </p>
+					<p>Jenkins </p>
+					<p>line ajouter depuis feature02 </p>
 				</div>
 				
 			</div>
